@@ -1,0 +1,10 @@
+c-lexical-analyzer/
+├── src/
+│   └── main.c           (your existing code)
+├── examples/
+│   └── example.c
+├── Makefile
+├── README.md
+├── LICENSE
+├── .gitignore
+└── test_input.txt
